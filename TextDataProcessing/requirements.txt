@@ -1,2 +1,4 @@
 pathlib~=1.0.1
 pdfminer.six~=20250506
+torch==2.8.0
+numpy==2.3.2
