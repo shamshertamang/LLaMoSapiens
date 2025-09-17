@@ -1,7 +1,5 @@
 import tiktoken
 import torch
-from pathlib import Path
-import os
 from torch.utils.data import DataLoader, Dataset
 
 
