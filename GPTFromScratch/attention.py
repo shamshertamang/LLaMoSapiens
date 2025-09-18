@@ -1,3 +1,9 @@
+# attention.py
+
+"""
+This script contains code for building attention mechanism.
+"""
+
 import torch.nn as nn
 import torch
 

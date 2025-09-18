@@ -1,3 +1,9 @@
+# architecture.py
+
+"""
+this script contains code for defining the LLM architecture.
+"""
+
 import torch.nn as nn
 import torch
 from attention import MultiHeadAttention
